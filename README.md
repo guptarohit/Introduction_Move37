@@ -4,7 +4,7 @@ This is the code for [this](https://youtu.be/fRmZck1Dakc) video on Youtube by Si
 
 ## Prerequisites
 * Python 3
-* `tkinder` for the UI
+* `tkinter` for the UI
 
 ## Getting Started
 The main program to run is `main.py`. This must be supplied with a JSON configuration file to build your GridWorld. See `example.json` for a rudimentary configuration.
